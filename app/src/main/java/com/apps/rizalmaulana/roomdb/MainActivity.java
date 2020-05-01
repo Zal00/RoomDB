@@ -1,5 +1,13 @@
 package com.apps.rizalmaulana.roomdb;
 
+/**
+Rizal Maulana - 10117191 - IF5
+
+Waktu pengerjaan 
+01-05-2020
+RoomDB
+*/
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.room.Room;
 import android.os.Bundle;
